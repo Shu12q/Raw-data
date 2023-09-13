@@ -1,0 +1,27 @@
+0	T cells
+1	B cells
+2	T cells
+3	B cells
+4	T cells
+5	Macrophages
+6	Plasma cells
+7	Epithelial cells
+8	T cells
+9	Endothelial cells
+10	Plasma cells
+11	Plasma cells
+12	Fibroblasts
+13	Multilymphoid progenitor cells
+14	T cells
+15	T cells
+16	Mast cells
+17	Epithelial cells
+18	Macrophages
+19	Multilymphoid progenitor cells
+20	Multipotent progenitor cells
+21	Multipotent progenitor cells
+22	Mesenchymal cells
+23	Epithelial cells
+24	Plasma cells
+25	Epithelial cells
+
